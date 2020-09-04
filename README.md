@@ -1,12 +1,14 @@
-# Bikini Atoll - Grub theme
+# Bikini Atoll - Grub theme #  
+### Designed for 1920x1080 Resolution ###  
+### Created by @texxasrulez ###  
 
-### Latest Screenshot
+### Latest Screenshot ###  
 
-![ScreenShot](screenshot.png)
+![ScreenShot](screenshot.png)  
 
-### Included Icons
+### Included Icons ###  
 
-|																						|																					|																						|																								|
+| Operating System - OS Logo															| Operating System - OS Logo														| Operating System - OS Logo															| Operating System - OS Logo																	|
 |:---																					|:---																				|:---																					|:---																							|
 | Alt Linux <img src="/bikini-atoll/icons/altlinux.png" width="64" height="64">			| FreeBSD <img src="/bikini-atoll/icons/freebsd.png" width="64" height="64">		| OpenMandrivia <img src="/bikini-atoll/icons/openmandriva.png" width="64" height="64">	| Ubuntu <img src="/bikini-atoll/icons/ubuntu.png" width="64" height="64">						|
 | Android <img src="/bikini-atoll/icons/android.png" width="64" height="64">			| Frugalware <img src="/bikini-atoll/icons/frugalware.png" width="64" height="64">	| OpenSuse <img src="/bikini-atoll/icons/opensuse.png" width="64" height="64">			| Ubuntu Gnome <img src="/bikini-atoll/icons/ubuntugnome.png" width="64" height="64">			|
@@ -31,16 +33,15 @@
 | Fatdog <img src="/bikini-atoll/icons/fatdog.png" width="64" height="64">				| Network <img src="/bikini-atoll/icons/network.png" width="64" height="64">		| Suse <img src="/bikini-atoll/icons/suse.png" width="64" height="64">					|																								|
 | Fedora <img src="/bikini-atoll/icons/fedora.png" width="64" height="64">				| OpenBSD <img src="/bikini-atoll/icons/openbsd.png" width="64" height="64">		| Tails Linux <img src="/bikini-atoll/icons/tails.png" width="64" height="64">			|																								|
 
-
-
 **Installation**  
+run `sudo bash install.sh`
 
-Run `install.sh`
+This will copy files to /usr/share/grub/themes, backup current grub config then it will edit grub.cfg and execute  
+update-grub / grub-mkconfig to make "Bikini Atoll" your default Grub2 Bootloader Theme.  
 
-This README is vague on purpose. Editing and changing grub could make your system unstable.  
-One should know what they are doing to use this theme.  
-**Use at your own risk!**  
+Upon next reboot, Bikini Atoll will be your boot screen.  
 
+**USE at your OWN Risk!**  
 
 :moneybag: **Donations** :moneybag:
 
