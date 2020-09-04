@@ -8,7 +8,7 @@
 
 ### Included Icons ###  
 
-| Operating System - OS Logo															| Operating System - OS Logo														| Operating System - OS Logo															| Operating System - OS Logo																	|
+| Operating System & Logo																| Operating System & Logo															| Operating System & Logo																| Operating System & Logo																		|
 |:---																					|:---																				|:---																					|:---																							|
 | Alt Linux <img src="/bikini-atoll/icons/altlinux.png" width="64" height="64">			| FreeBSD <img src="/bikini-atoll/icons/freebsd.png" width="64" height="64">		| OpenMandrivia <img src="/bikini-atoll/icons/openmandriva.png" width="64" height="64">	| Ubuntu <img src="/bikini-atoll/icons/ubuntu.png" width="64" height="64">						|
 | Android <img src="/bikini-atoll/icons/android.png" width="64" height="64">			| Frugalware <img src="/bikini-atoll/icons/frugalware.png" width="64" height="64">	| OpenSuse <img src="/bikini-atoll/icons/opensuse.png" width="64" height="64">			| Ubuntu Gnome <img src="/bikini-atoll/icons/ubuntugnome.png" width="64" height="64">			|
