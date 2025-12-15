@@ -1,7 +1,8 @@
 # Bikini Atoll - Grub theme #  
 ### Designed for 1920x1080 Resolution ###  
-### Created by @texxasrulez ###  
+### Created by @texxasrulez ###
 
+![Downloads](https://img.shields.io/github/downloads/texxasrulez/grub2-theme-bikini-atoll/total)
 [![Github License](https://img.shields.io/github/license/texxasrulez/grub2-theme-bikini-atoll?style=plastic&logo=github&label=License&labelColor=blue&color=coral)](https://github.com/texxasrulez/grub2-theme-bikini-atoll/LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/texxasrulez/grub2-theme-bikini-atoll?style=plastic&logo=github&label=Stars&labelColor=blue&color=deepskyblue)](https://github.com/texxasrulez/grub2-theme-bikini-atoll/stargazers)
 [![GitHub Issues](https://img.shields.io/github/issues/texxasrulez/grub2-theme-bikini-atoll?style=plastic&logo=github&label=Issues&labelColor=blue&color=aqua)](https://github.com/texxasrulez/grub2-theme-bikini-atoll/issues)
