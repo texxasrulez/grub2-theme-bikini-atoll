@@ -1,8 +1,7 @@
 # Bikini Atoll - Grub theme #  
 ### Designed for 1920x1080 Resolution ###  
-### Created by @texxasrulez ###
+### Created by @texxasrulez ###  
 
-![Downloads](https://img.shields.io/github/downloads/texxasrulez/grub2-theme-bikini-atoll/total)
 [![Github License](https://img.shields.io/github/license/texxasrulez/grub2-theme-bikini-atoll?style=plastic&logo=github&label=License&labelColor=blue&color=coral)](https://github.com/texxasrulez/grub2-theme-bikini-atoll/LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/texxasrulez/grub2-theme-bikini-atoll?style=plastic&logo=github&label=Stars&labelColor=blue&color=deepskyblue)](https://github.com/texxasrulez/grub2-theme-bikini-atoll/stargazers)
 [![GitHub Issues](https://img.shields.io/github/issues/texxasrulez/grub2-theme-bikini-atoll?style=plastic&logo=github&label=Issues&labelColor=blue&color=aqua)](https://github.com/texxasrulez/grub2-theme-bikini-atoll/issues)
@@ -32,14 +31,15 @@
 | Clover <img src="/bikini-atoll/icons/clover.png" width="64" height="64">				| Linux Mint <img src="/bikini-atoll/icons/linuxmint.png" width="64" height="64">	| Rosa <img src="/bikini-atoll/icons/rosa.png" width="64" height="64">					|																								|
 | Core <img src="/bikini-atoll/icons/core.png" width="64" height="64">					| Lubuntu <img src="/bikini-atoll/icons/lubuntu.png" width="64" height="64">		| Sabayon <img src="/bikini-atoll/icons/sabayon.png" width="64" height="64">			|																								|
 | Crunchbang <img src="/bikini-atoll/icons/crunchbang.png" width="64" height="64">		| Mac <img src="/bikini-atoll/icons/mac.png" width="64" height="64">				| System Shutdown <img src="/bikini-atoll/icons/shutdown.png" width="64" height="64">	|																								|
-| Debian <img src="/bikini-atoll/icons/debian.png" width="64" height="64">				| Mac Alt <img src="/bikini-atoll/icons/mac_alt.png" width="64" height="64">		| Siduction <img src="/bikini-atoll/icons/siduction.png" width="64" height="64">		|																								| 
+| Debian <img src="/bikini-atoll/icons/debian.png" width="64" height="64">				| Mac Alt <img src="/bikini-atoll/icons/mac_alt.png" width="64" height="64">		| Siduction <img src="/bikini-atoll/icons/siduction.png" width="64" height="64">		|																								|
 | Deepin <img src="/bikini-atoll/icons/deepin.png" width="64" height="64">				| Mageia <img src="/bikini-atoll/icons/mageia.png" width="64" height="64">			| Slackware <img src="/bikini-atoll/icons/slackware.png" width="64" height="64">		|																								|
 | Edubuntu <img src="/bikini-atoll/icons/edubuntu.png" width="64" height="64">			| Mandrivia <img src="/bikini-atoll/icons/mandriva.png" width="64" height="64">		| Solus <img src="/bikini-atoll/icons/solus.png" width="64" height="64">				|																								|
 | Elementary <img src="/bikini-atoll/icons/elementary.png" width="64" height="64">		| Manjaro <img src="/bikini-atoll/icons/manjaro.png" width="64" height="64">		| Sparky <img src="/bikini-atoll/icons/sparky.png" width="64" height="64">				|																								|
-| Endeavour OS <img src="/bikini-atoll/icons/endeavouros.png" width="64" height="64">	| MXLinux <img src="/bikini-atoll/icons/mxlinux.png" width="64" height="64">		| Steam <img src="/bikini-atoll/icons/steam.png" width="64" height="64">				|																								|
-| Endless OS <img src="/bikini-atoll/icons/endlessOS.png" width="64" height="64">		| Neon <img src="/bikini-atoll/icons/neon.png" width="64" height="64">				| Submenu Icon <img src="/bikini-atoll/icons/submenu.png" width="64" height="64">		|																								|
-| Fatdog <img src="/bikini-atoll/icons/fatdog.png" width="64" height="64">				| Network <img src="/bikini-atoll/icons/network.png" width="64" height="64">		| Suse <img src="/bikini-atoll/icons/suse.png" width="64" height="64">					|																								|
-| Fedora <img src="/bikini-atoll/icons/fedora.png" width="64" height="64">				| OpenBSD <img src="/bikini-atoll/icons/openbsd.png" width="64" height="64">		| Tails Linux <img src="/bikini-atoll/icons/tails.png" width="64" height="64">			|																								|
+| Endeavour OS <img src="/bikini-atoll/icons/endeavouros.png" width="64" height="64">	| MemTest <img src="/bikini-atoll/icons/memtest.png" width="64" height="64">		| Steam <img src="/bikini-atoll/icons/steam.png" width="64" height="64">				|																								|
+| Endless OS <img src="/bikini-atoll/icons/endlessOS.png" width="64" height="64">		| MXLinux <img src="/bikini-atoll/icons/mxlinux.png" width="64" height="64">		| Submenu Icon <img src="/bikini-atoll/icons/submenu.png" width="64" height="64">		|																								|
+| Fatdog <img src="/bikini-atoll/icons/fatdog.png" width="64" height="64">				| Neon <img src="/bikini-atoll/icons/neon.png" width="64" height="64">				| Suse <img src="/bikini-atoll/icons/suse.png" width="64" height="64">					|																								|
+| Fedora <img src="/bikini-atoll/icons/fedora.png" width="64" height="64">				| Network <img src="/bikini-atoll/icons/network.png" width="64" height="64">		| Tails Linux <img src="/bikini-atoll/icons/tails.png" width="64" height="64">			|																								|
+| 																			            | OpenBSD <img src="/bikini-atoll/icons/openbsd.png" width="64" height="64">		| 																			            |																								|
 
 **Installation**  
 run `sudo bash install.sh`
